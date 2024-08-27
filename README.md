@@ -1,3 +1,5 @@
+A weather app that shows 7 days weather forecast including temperature, humidity, winds for over 10,000 cities available in the GeoDB Cities API.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
